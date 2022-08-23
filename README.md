@@ -7,7 +7,7 @@ This repo is made available, in hopes that it might provide the initial help for
 This branch will provide the reader with the necessary script for detecting shear waves in a ultrasound image using a phased array.
 Using the settings in the top of the script, it is possible to change frame rate, number of sub-frames per frame 
 
-- (you are required to combine them, as there is a large overhead when transfering data from the Vantage system to the Host computer)
+- There is a large overhead when transfering data from the Vantage system to the Host computer
 
 # Future Perspective
 
