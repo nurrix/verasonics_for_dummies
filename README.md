@@ -5,9 +5,7 @@ This repo is made available, in hopes that it might provide the initial help for
 # Branch::computing_in_cardiology_2022
 
 This branch will provide the reader with the necessary script for detecting shear waves in a ultrasound image using a phased array.
-Using the settings in the top of the script, it is possible to change frame rate, number of sub-frames per frame 
-
-- There is a large overhead when transfering data from the Vantage system to the Host computer
+Using the settings in the top of the script, it is possible to change frame rate, number of sub-frames per frame, etc.
 
 # Future Perspective
 
