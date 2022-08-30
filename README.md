@@ -8,8 +8,11 @@ This branch will provide the reader with the necessary script for detecting shea
 for the published data @ [Computing in Cardiology 2022 @ Tampere, Finland](https://www.google.com "Computing in Cardiology 2022's Homepage").
 Using the settings in the top of the script, it is possible to change frame rate, number of sub-frames per frame, etc. 
 
-To run the project, Place the "CinC2022 files" folder in your Verasonics project, and run 'RunARFIShearWaves_GEM5Sc'
+To run the project, Place the "CinC2022 files" folder in your Verasonics project, and 
 
+1. run 'activate'
+1. run 'RunARFIShearWaves_GEM5Sc'
+ 
 # Future Perspective
 
 It is the intended goal of this project to provide the reader with a GUI where the reader can specify the specific verasonics vantage settings he or she wishes.
