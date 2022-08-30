@@ -1,0 +1,46 @@
+{
+    "DefinedTransducers": 
+    {
+        "GEM5ScD": 
+            {
+                "numTransElmTheta": 80,
+                "numTransElmAzi": 2,
+                "default_frequency": 2.841,
+                "default_Bandwidth": [1.7, 4.2],
+                "elmSpacingMm": 0.27,
+                "req_fn": []
+            },
+        "GE11LD": 
+            {
+                "numTransElmTheta": 192,
+                "numTransElmAzi": 1,
+                "default_frequency": 7.3,
+                "default_Bandwidth": [4.38, 10.22],
+                "elmSpacingMm": 0.1990,
+                "req_fn": ["CustomTransArrayGE11LD"]
+            }
+    },
+    "ValidVantageSystems":{
+        "Vantage256":{
+            "TXChannels": 256,
+            "RXChannels": 256
+        },
+        "Vantage128":{
+            "TXChannels": 128,
+            "RXChannels": 128
+        },
+        "Vantage64":{
+            "TXChannels": 64,
+            "RXChannels": 64
+        },
+        "Vantage64LE":{
+            "TXChannels": 128,
+            "RXChannels": 64
+        },
+        "Vantage32LE":{
+            "TXChannels": 32,
+            "RXChannels": 64
+        }
+    }
+        
+}
