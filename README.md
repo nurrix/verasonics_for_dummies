@@ -19,3 +19,11 @@ It is the intended goal of this project to provide the reader with a GUI where t
 The GUI will procedurally generate code, when the specified settings will be included.
 
 This will be provided to the reader at a future date.
+
+
+# disclaimer
+
+This project is open source and we provide absolutely no guarantee of anything. 
+It will always be the user's task to ensure that their system operate within allowed parameters.
+This is meant as a learning project. Nothing more. 
+We will always welcome improvement to code. 
